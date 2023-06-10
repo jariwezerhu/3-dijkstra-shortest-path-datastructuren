@@ -5,7 +5,7 @@ Summatieve opdracht 3: Dijkstra Shortest Path & Datastructuren
 Jari Wezer
 
 Ik heb een POC (proof of concept/piece of crap) geimplementeerd op basis van de bijgevoegde graph png:
-[Graph](Untitled Diagram.drawio.png)
+![Graph](Untitled Diagram.drawio.png)
 Node 1 = Amsterdam,
 Node 2 = Den Haag,
 Node 3 = Brussel,
@@ -16,7 +16,7 @@ De kortste route moet worden bepaald op basis van afstand/tijd/kosten. Ik heb de
 
 Voor deze opdracht heb ik 4 verschillende classes gemaakt:
 
-![Location class](../src/Location.cpp):
+[Location class](/src/Location.cpp):
 Dit is een soort placeholder voor toekomstige locaties (stel je wilt het verbinden met een API). 
 Momenteel houdt dit alleen een plaatsnaam vast.
 

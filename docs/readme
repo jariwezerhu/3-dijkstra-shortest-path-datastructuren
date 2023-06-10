@@ -4,7 +4,8 @@ Summatieve opdracht 3: Dijkstra Shortest Path & Datastructuren
 
 Jari Wezer
 
-Ik heb een POC (proof of concept/piece of crap) geimplementeerd op basis van de bijgevoegde graph png. 
+Ik heb een POC (proof of concept/piece of crap) geimplementeerd op basis van de bijgevoegde graph png:
+[Graph](Untitled Diagram.drawio.png)
 Node 1 = Amsterdam,
 Node 2 = Den Haag,
 Node 3 = Brussel,
